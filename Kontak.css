@@ -1,0 +1,44 @@
+/* Kontak.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f1ea; /* Light beige background */
+    color: #4d4034; /* Dark brown text */
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 20px;
+    background-color: #fff8e1; /* Very light brown section background */
+    border: 1px solid #8b5917; /* Light brown border */
+    border-radius: 8px;
+    margin: 20px;
+}
+
+h2 {
+    color: #8b4513; /* Saddle brown for main headers */
+    text-align: center;
+    font-size: 24px;
+}
+
+h3 {
+    color: #a0522d; /* Sienna for sub-headers */
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #8b4513; /* Saddle brown footer background */
+    color: #ffffff; /* White text for footer */
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
